@@ -26,6 +26,12 @@
 *.a
 *.lib
 
+#lab
+Debug/
+*.vs/
+*.filters
+*.users
+
 # Executables
 *.exe
 *.out
